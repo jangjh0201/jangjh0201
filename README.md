@@ -4,9 +4,11 @@
 🎓Bachelor's Degree in Computer Engineering<br>
 🎓Bachelor's Degree in Data Science
 
+###### 🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201)<br> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201&show_icons=true&rank_icon=github&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201&show_icons=true&rank_icon=github&theme=github_dark_dimmed)
 
 
 <!--
