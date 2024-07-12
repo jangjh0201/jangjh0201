@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=003458&height=150&section=header)
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201&show_icons=true)
 
 
