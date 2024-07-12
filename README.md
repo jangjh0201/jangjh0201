@@ -6,7 +6,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201)<br> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201&show_icons=true&rank_icon=github&theme=grad)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201&show_icons=true&rank_icon=github&theme=prussian)
 
 
 <!--
