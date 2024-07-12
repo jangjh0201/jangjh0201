@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=003458&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=003458&height=150&section=header)
 ## Hi there 👋
 
 <!--
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=003458&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=003458&height=150&section=footer)
