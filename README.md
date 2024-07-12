@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=003458&height=150&section=header) -->
 ## Hi there 👋
 
-🎓Bachelor's Degree in Computer Engineering
+🎓Bachelor's Degree in Computer Engineering<br>
 🎓Bachelor's Degree in Data Science
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201)<br> -->
