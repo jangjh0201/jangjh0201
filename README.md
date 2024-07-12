@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201&show_icons=false)
 
 
 <!--
