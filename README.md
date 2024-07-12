@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=003458&height=300&section=header&text=capsule%20render&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=003458&height=300&section=footer&text=capsule%20render&fontSize=90)
 ## Hi there 👋
 
 <!--
