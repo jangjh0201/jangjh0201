@@ -6,10 +6,8 @@
 
 ###### 🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201)<br> -->
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201&show_icons=true&rank_icon=github&theme=github_dark_dimmed)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201)
 
 <!--
 **jangjh0201/jangjh0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
