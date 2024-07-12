@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=003458&height=150&section=header)
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201)](https://github.com/jangjh0201/github-readme-stats)
-[![jangjh0201's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201)](https://github.com/jangjh0201/github-readme-stats)
-![jangjh0201's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201&hide=contribs,prs&show_icons=true&theme=graywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201)](https://github.com/anuraghazra/github-readme-stats)
+[![jangjh0201's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **jangjh0201/jangjh0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
