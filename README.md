@@ -87,7 +87,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jangjh0201/jangjh0201/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2024 16:10:46 UTC
+ Last Updated on 13/07/2024 16:13:06 UTC
 <!--END_SECTION:waka-->
 
 📋Stats<br>
