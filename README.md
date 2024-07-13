@@ -16,7 +16,7 @@
 
 📋Stats<br>
 <p style="display: flex; justify-content: space-between;">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&show_icons=true&rank_icon=github&theme=github_dark_dimmed&bg_color=003153card_width==500">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&show_icons=true&rank_icon=github&theme=github_dark_dimmed&bg_color=003153&card_width==500">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=003153&card_width=500">
 </p>
 
