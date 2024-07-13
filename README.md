@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&show_icons=true&rank_icon=github&theme=github_dark_dimmed&bg_color=003153">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&show_icons=true&rank_icon=github&theme=github_dark_dimmed&bg_color=003153">
 
 
 ###### 🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-
