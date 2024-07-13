@@ -16,6 +16,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201&show_icons=true&rank_icon=github&theme=github_dark_dimmed)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh0201&show_icons=true&rank_icon=github&theme=github_dark_dimmed&bg_color=003153)
 
 ###### 🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-
