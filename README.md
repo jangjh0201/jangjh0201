@@ -15,18 +15,6 @@
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 83.5 kB Used in GitHub's Storage 
- > 
-> 🏆 336 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -52,9 +40,6 @@ Sunday                   324 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -83,7 +68,7 @@ C++                      1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/jangjh0201/jangjh0201/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2024 17:26:08 UTC
+ Last Updated on 13/07/2024 17:28:18 UTC
 <!--END_SECTION:waka-->
 
 📋Stats<br>
