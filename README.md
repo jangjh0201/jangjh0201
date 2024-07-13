@@ -15,10 +15,11 @@
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue) -->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-421-blue)
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-421-blue) -->
 
+<!--
 **🐱 My GitHub Data** 
 
 > 📦 83.5 kB Used in GitHub's Storage 
@@ -31,6 +32,8 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+ -->
+ 
 **I'm a Night 🦉** 
 
 ```text
