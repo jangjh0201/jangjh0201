@@ -1,4 +1,4 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=003458&height=150&section=header) -->
+<img height="180rem" src="https://capsule-render.vercel.app/api?type=waving&color=36454f&height=150&section=header">
 ## Hi there 👋
 
 🎓Degree<br>
