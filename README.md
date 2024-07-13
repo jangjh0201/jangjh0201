@@ -16,7 +16,6 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&show_icons=true&rank_icon=github&theme=github_dark_dimmed&bg_color=003153>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> -->
 </p>
 
 ###### 🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-
