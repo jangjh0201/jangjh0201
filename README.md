@@ -16,8 +16,8 @@
 
 📋Stats<br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&show_icons=true&rank_icon=github&theme=github_dark_dimmed&bg_color=003153">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=003153&card_width=100%">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&show_icons=true&rank_icon=github&theme=github_dark_dimmed&bg_color=003153">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=003153&card_width=100%">
 </p>
 
 ###### 🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-
