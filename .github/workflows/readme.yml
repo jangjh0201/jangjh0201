@@ -20,6 +20,12 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
+
+          SHOW_EDITORS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_OS: "False"
+          
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART : "False"
 
 # 'SECTION_NAME', 'PULL_BRANCH_NAME', 'PUSH_BRANCH_NAME', 'SHOW_OS', 'SHOW_PROJECTS', 'SHOW_EDITORS', 'SHOW_TIMEZONE', 'SHOW_COMMIT', 'SHOW_LANGUAGE', 'SHOW_LINES_OF_CODE', 
