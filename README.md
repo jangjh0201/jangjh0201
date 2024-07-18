@@ -59,7 +59,7 @@ movie_Backend            1 hr 35 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 📋Stat cards<br>
 <p>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&show_icons=true">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&show_icons=true&rank_icon=github&theme=github_dark_dimmed&bg_color=36454f">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f">
 </p>
 
