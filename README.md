@@ -57,7 +57,7 @@ crawler                  44 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
-<!--END_SECTION:waka-->**
+<!--END_SECTION:waka-->
 
 📋Stat cards<br>
 <p>
