@@ -2,10 +2,12 @@
 <h1> Hi there 👋</h1>
 <div align=center>
   <b>🎓Degree</b>
-  <ul>
-    <li>Bachelor's Degree in Computer Engineering</li>
-    <li>Bachelor's Degree in Data Science</li>
-  </ul>
+  <p>
+    <ul>
+      <li>Bachelor's Degree in Computer Engineering</li>
+      <li>Bachelor's Degree in Data Science</li>
+    </ul>
+  </p>
 </div>
 
 <b>🔧Tech stack</b>
