@@ -67,13 +67,12 @@ BoT-SORT                 29 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   
   <b>📋 Stat cards</b>
     
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=jangjh0201&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f&langs_count=8&card_width=320" />
+  </a>
 
   <b>🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-<b>
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180rem align="center" src="https://github-readme-stats.vercel.app/api/?username=jangjh0201&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=180rem align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f&langs_count=8&card_width=320" />
-  </a>
