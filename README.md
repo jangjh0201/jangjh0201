@@ -67,11 +67,11 @@ BoT-SORT                 29 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   
   <b>📋 Stat cards</b>
   
-  <div display: flex; justify-content: center;>
+  <p>
     <!-- 랭크 가리기 : rank_icon=github -->
-    <img height="180rem" style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f">
-    <img height="180rem" style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f">
-  </div>
+    <img height="180rem" style="width:49%; display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f">
+    <img height="180rem" style="width:49%; display:inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f">
+  </p>
   
   <b>🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-<b>
 </div>
