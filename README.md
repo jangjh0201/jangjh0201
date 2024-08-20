@@ -3,10 +3,8 @@
 
 <div align=center>
   <b>🎓Degree</b>
-    <ul>
-      <li>Bachelor's Degree in Computer Engineering</li>
-      <li>Bachelor's Degree in Data Science</li>
-    </ul>
+  - Bachelor's Degree in Computer Engineering
+  - Bachelor's Degree in Data Science
   <br>
   
   <b>🔧Tech stack</b>
