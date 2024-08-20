@@ -1,11 +1,11 @@
 <!-- <img height="180rem" src="https://capsule-render.vercel.app/api?type=waving&color=36454f&height=150&section=header"> -->
 <h1> Hi there 👋</h1>
 
-<p>🎓Degree</p>
+<b>🎓Degree</b>
 - Bachelor's Degree in Computer Engineering<br>
 - Bachelor's Degree in Data Science<br>
 
-**🔧Tech stack<br>**
+<b>🔧Tech stack</b>
 <br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
