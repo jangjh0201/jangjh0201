@@ -2,11 +2,12 @@
 <h1> Hi there 👋</h1>
 
 <b>🎓Degree</b>
-- Bachelor's Degree in Computer Engineering
-- Bachelor's Degree in Data Science
+<ul>
+  <li>Bachelor's Degree in Computer Engineering</li>
+  <li>Bachelor's Degree in Data Science</li>
+</ul>
 
 <b>🔧Tech stack</b>
-
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
