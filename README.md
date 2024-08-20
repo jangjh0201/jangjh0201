@@ -1,7 +1,7 @@
 <!-- <img height="180rem" src="https://capsule-render.vercel.app/api?type=waving&color=36454f&height=150&section=header"> -->
-## Hi there 👋
+<h1> Hi there 👋</h1>
 
-**🎓Degree<br>**
+<p>🎓Degree</p>
 - Bachelor's Degree in Computer Engineering<br>
 - Bachelor's Degree in Data Science<br>
 
