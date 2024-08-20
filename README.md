@@ -1,4 +1,5 @@
 <!-- <img height="180rem" src="https://capsule-render.vercel.app/api?type=waving&color=36454f&height=150&section=header"> -->
+<>
 <h1> Hi there 👋</h1>
 
 <div align=center>
@@ -67,7 +68,7 @@
   
   <b>📋 Stat cards</b>
   
-  <p>
+  <p align="justify">
     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f"> <!-- 랭크 가리기 : rank_icon=github -->
     <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f">
   </p>
