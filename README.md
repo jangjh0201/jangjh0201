@@ -2,8 +2,6 @@
 <h1> Hi there 👋</h1>
 
 <div align=center>
-  ![vecteezy_cityscape-at-dusk-depict-a-city-skyline-at-dusk-generate-ai_24474456](https://github.com/user-attachments/assets/5a7c0199-78f7-49d9-8814-82c7419c09ae)
-  
   <b>🎓 Degree</b>
   <br>
   <br>
