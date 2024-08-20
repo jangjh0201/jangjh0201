@@ -3,6 +3,7 @@
 
 <div align=center>
   <b>🎓Degree</b>
+  <br>
   - Bachelor's Degree in Computer Engineering<br>
   - Bachelor's Degree in Data Science<br>
   <br>
