@@ -67,4 +67,5 @@ baris_drip_academy       20 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f">
 </p>
 
-<h6> 🔭 If something's important enough, you should try. Even if the probable outcome is failure.<br> -Elon Musk- </h6>
+<pre> 🔭 If something's important enough, you should try. Even if the probable outcome is failure.
+-Elon Musk- </pre>
