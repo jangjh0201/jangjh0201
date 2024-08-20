@@ -67,12 +67,14 @@ BoT-SORT                 29 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   
   <b>📋 Stat cards</b>
   
-  <div style="width: 100%; max-width: 800px; margin: auto;">
-    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f">
+  <div style="display: flex; justify-content: space-between; align-items: stretch;">
+    <div style="width: 48%; background-color: #36454f; padding: 20px; box-sizing: border-box;">
+      <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f">
+    </div>
+    <div style="width: 48%; background-color: #36454f; padding: 20px; box-sizing: border-box;">
+      <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f">
+    </div>
   </div>
-  <div style="width: 100%; max-width: 800px; margin: auto; margin-top: 20px;">
-    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f">
-  </div>
-  
+
   <b>🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-<b>
 </div>
