@@ -69,8 +69,8 @@ BoT-SORT                 29 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   
   <p style="display: flex; justify-content: space-between; align-items: stretch;">
     <!-- 랭크 가리기 : rank_icon=github -->
-    <img style="width:49%; height:200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f">
-    <img style="width:49%; height:200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f">
+    <img style="width:50%; height:180rem; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f">
+    <img style="width:70%; height:180rem; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f">
   </p>
   
   <b>🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-<b>
