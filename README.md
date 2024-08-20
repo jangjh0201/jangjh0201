@@ -68,10 +68,10 @@ BoT-SORT                 29 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <b>📋 Stat cards</b>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jangjh0201&repo=github-readme-stats&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jangjh0201&repo=convoychat&layout=compact&theme=github_dark_dimmed&bg_color=36454f" />
   </a>
 
   <b>🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-<b>
