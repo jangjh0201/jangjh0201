@@ -2,10 +2,10 @@
 ## Hi there 👋
 
 <div align="center">
-**🎓Degree<br>**
-- Bachelor's Degree in Computer Engineering<br>
-- Bachelor's Degree in Data Science<br>
-
+**🎓Degree<br>**<br>
+Bachelor's Degree in Computer Engineering<br>
+Bachelor's Degree in Data Science<br>
+<br>
 **🔧Tech stack<br>**
 <br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
