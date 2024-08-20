@@ -1,12 +1,12 @@
 <!-- <img height="180rem" src="https://capsule-render.vercel.app/api?type=waving&color=36454f&height=150&section=header"> -->
 <h1> Hi there 👋</h1>
-
-<b>🎓Degree</b>
-<ul>
-  <li>Bachelor's Degree in Computer Engineering</li>
-  <li>Bachelor's Degree in Data Science</li>
-</ul>
-<br>
+<div align=center>
+  <b>🎓Degree</b>
+  <ul>
+    <li>Bachelor's Degree in Computer Engineering</li>
+    <li>Bachelor's Degree in Data Science</li>
+  </ul>
+</div>
 
 <b>🔧Tech stack</b>
 <br>
