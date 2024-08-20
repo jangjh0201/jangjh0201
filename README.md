@@ -2,13 +2,13 @@
 <h1> Hi there 👋</h1>
 
 <div align=center>
-  <b>🎓Degree</b>
+  <b>🎓 Degree</b>
   <br>
   - Bachelor's Degree in Computer Engineering<br>
   - Bachelor's Degree in Data Science<br>
   <br>
   
-  <b>🔧Tech stack</b>
+  <b>🔧 Tech stack</b>
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -63,7 +63,7 @@
   
   <!--END_SECTION:waka-->
   
-  <b>📋Stat cards</b>
+  <b>📋 Stat cards</b>
   
   <p>
     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=jangjh0201&include_all_commits=true&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f"> <!-- 랭크 가리기 : rank_icon=github -->
