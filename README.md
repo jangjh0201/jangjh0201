@@ -3,8 +3,8 @@
 ## Hi there 👋
 
 **🎓Degree<br>**
-- Bachelor's Degree in Computer Engineering<br>
-- Bachelor's Degree in Data Science<br>
+Bachelor's Degree in Computer Engineering<br>
+Bachelor's Degree in Data Science<br>
 
 **🔧Tech stack<br>**
 <br>
