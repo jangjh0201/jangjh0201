@@ -74,5 +74,7 @@ BoT-SORT                 29 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh0201&layout=compact&theme=github_dark_dimmed&bg_color=36454f&langs_count=8&card_width=345" />
   </a>
 
-  <b>🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-<b>
+  <br>
+  <br>
+  <b>🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-</b>
 </div>
