@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
   <br>
   
+  <img src="/images/skyline_night.jpg">
+  <br>
+  <br>
+  
   <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
