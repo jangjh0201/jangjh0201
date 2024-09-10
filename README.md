@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
   <br>
   
-  <img height="400rem" src="/images/skyline_night.jpg">
+  <img height="450rem" src="/images/skyline_night.jpg">
   <br>
   <br>
   
