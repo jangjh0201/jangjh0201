@@ -89,5 +89,5 @@ movie_Backend            9 mins              ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 
   <br>
   <br>
-  <b>🔭 If something's important enough, you should try. Even if the probable outcome is failure. -Elon Musk-</b>
+  <b>🏃 "Knowing is not enough, we must apply. Willing is not enough, we must do." -Bruce Lee-</b>
 </div>
