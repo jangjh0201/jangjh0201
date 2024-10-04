@@ -1,41 +1,46 @@
 <!-- <img height="180rem" src="https://capsule-render.vercel.app/api?type=waving&color=36454f&height=150&section=header"> -->
-<h1> Hi there 👋</h1>
+<h2> Hi there 👋</h2>
+I'm a Data-Driven AI Robotics Engineer passionate about merging AI and robotics to solve real-world challenges. With a background in Electrical and Electronics Engineering, I've worked across different fields, including AI analysis, robotics, and autonomous driving technologies.
+
+<h3>🔭 I enjoy working on</h3>
+<ul>
+  <li>AI-powered robotic systems (specializing in ROS2)
+  <li>Data-driven AI solutions for practical, real-world applications
+  <li>Collaborating with teams to create innovative solutions using limited resources
+</ul>
   
-<img src="/images/skyline_night _h2072.jpg">
-<br>
+<h3>🔧 What I Do</h3>
+<ul>
+  <li><strong>Robotics Software Development</strong>: Specializing in computer vision systems, focusing on applying AI to robotics for real-world applications.
+  <li><strong>AI Engineering</strong>: Leveraging machine learning and data processing to enhance robotics systems.
+  <li><strong>Problem-Solving</strong>: Combining my background in electrical engineering with AI skills to create practical solutions.
+</ul>
   
-<h2>🎓 Degree</h2>
-<b>- Bachelor's Degree in Computer Engineering</b><br>
-<b>- Bachelor's Degree in Data Science</b><br>
-<br>
+<h3>📚 Current Focus</h3>
+<ul>
+  <li>Expanding my expertise in Robot and autonomous driving technologies
+  <li>Exploring the intersection of AI and robotics for smarter, more efficient systems
+</ul>
+  
+<h3>🔧 Technologies & Tools</h3>
+<ul>
+  <li><strong>Languages</strong>: Python
+  <li><strong>AI/ML</strong>: PyTorch, OpenCV, Scikit-learn, Mediapipe, Aruco Marker
+  <li><strong>Robotics</strong>: ROS2, Gazebo
+  <li><strong>Data Analysis</strong>: Numpy, Pandas, Matplotlib, Seaborn
+  <li><strong>Development Tools</strong>: Ubuntu
+</ul>
 
+<h3>🚀 Featured Projects</h3>
+<ul>
+  <li><b>[Development of Service Robots and AI Autonomous Driving for Unmanned Ice Cream Stores]</b>: A project focused on integrating various advanced technologies such as robotics, artificial intelligence, and computer vision to develop service robots and AI autonomous driving systems for unmanned ice cream stores, where humans and robots interact.
+  <li><b>[Robot Car Driving Simulation and Object Detection Project]</b>: In this project, the robot car ultimately recognizes objects through an internal camera, while an external camera detects hand gestures to control the driving of the robot car.
+  <li><b>[Telecom Customer Churn Prediction Project]</b>: This project focuses on predicting customer churn for a telecom company, using third-quarter data to make predictions and validating the churn prediction model for the fourth quarter.
+</ul>
 
-<!--
-<h2>🔧 Tech stack</h2>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<br>  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<br>
-<br>
--->
+<h3>🔗 Connect with me</h3>
 
-<h2>📰 Dashboard</h2>
+<h3>📰 Dashboard</h3>
   
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -79,9 +84,8 @@ infomation_backend       3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!--END_SECTION:waka-->
-<br>
   
-<h2>📋 Stat cards</h2>
+<h3>📋 Stat cards</h3>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=jangjh0201&rank_icon=github&show_icons=true&theme=github_dark_dimmed&bg_color=36454f" /> <!-- &include_all_commits=true -->
