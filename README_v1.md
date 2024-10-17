@@ -6,8 +6,8 @@
   
 <div align=center>
   <h2>🎓 Degree</h2>
-  <b>- Bachelor's Degree in Computer Engineering</b><br>
-  <b>- Bachelor's Degree in Data Science</b><br>
+  - Bachelor's Degree in Computer Engineering<br>
+  - Bachelor's Degree in Data Science<br>
   <br>
   
   <h2>🔧 Tech stack</h2>
