@@ -4,7 +4,7 @@
 <img src="/images/skyline_night _h2072.jpg">
 <br>
   
-<div align=left>
+<div align=center>
   <h2>🎓 Degree</h2>
   - Bachelor's Degree in Computer Engineering<br>
   - Bachelor's Degree in Data Science<br>
