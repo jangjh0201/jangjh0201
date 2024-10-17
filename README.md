@@ -4,10 +4,10 @@
 <img src="/images/skyline_night _h2072.jpg">
 <br>
   
-<div align=center>
+<div align=left>
   <h2>🎓 Degree</h2>
-  <b>- Bachelor's Degree in Computer Engineering</b><br>
-  <b>- Bachelor's Degree in Data Science</b><br>
+  - Bachelor's Degree in Computer Engineering<br>
+  - Bachelor's Degree in Data Science<br>
   <br>
   
   <h2>🔧 Tech stack</h2>
