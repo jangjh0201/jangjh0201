@@ -25,7 +25,6 @@
   <br>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/githubcopilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
