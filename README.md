@@ -1,7 +1,9 @@
-<!-- <img height="180rem" src="https://capsule-render.vercel.app/api?type=waving&color=36454f&height=150&section=header"> -->
-<h2>👋 Hi there</h2>
-  
+<!-- <img height="180rem" src="https://capsule-render.vercel.app/api?type=waving&color=36454f&height=150&section=header"> -->  
 <div align=left>
+  <h2>👋 Hi there</h2>
+  Backend Engineer building data-intensive and platform-oriented systems.
+  <br>
+  
   <h2>🎓 Education</h2>
   - Bachelor's Degree in Computer Engineering<br>
   - Bachelor's Degree in Data Science<br>
