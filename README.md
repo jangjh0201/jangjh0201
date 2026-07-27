@@ -28,6 +28,8 @@
   <h2>📰 Dashboard</h2>
   
   <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2058%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -59,6 +61,12 @@ No Activity Tracked This Week
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
