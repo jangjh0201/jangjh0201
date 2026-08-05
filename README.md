@@ -1,5 +1,5 @@
 <!-- <img height="180rem" src="https://capsule-render.vercel.app/api?type=waving&color=36454f&height=150&section=header"> -->  
-<img src="/images/20251226_011559335.png">
+<!-- <img src="/images/20251226_011559335.png"> -->
 
 <div align=left>
   <h2>👋 Hi there</h2>
